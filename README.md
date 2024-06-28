@@ -17,7 +17,7 @@ one-class image classification implementation for julia
 
   ### monovision.jl
 
-  - it will store the architectures of the models available
+  - it stores the architectures of the models available
  
   ### oculus.jl
 
